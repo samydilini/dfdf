@@ -2,7 +2,7 @@ package practice.com;
 
 public class Test {
 	
-	public static void main() {
+	public static void main(String[] args) {
 		
 	}
 
